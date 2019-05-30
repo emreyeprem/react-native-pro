@@ -1,0 +1,3 @@
+rootProject.name = 'reactPro'
+
+include ':app'
